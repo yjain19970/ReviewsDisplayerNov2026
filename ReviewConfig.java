@@ -1,4 +1,4 @@
 public class ReviewConfig {
-    public static final int MAX_REVIEWS = 5;
+    public static final int MAX_REVIEWS = 10;
 }
 
